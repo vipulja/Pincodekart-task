@@ -4,6 +4,7 @@ Environment: Use Python 3.7+ and install dependencies.
 
 Dependencies: Install pytest and Playwright for Python:
 
+Open the Command Prompt and run the commands below.
 pip install pytest playwright
 playwright install
 
@@ -12,6 +13,7 @@ playwright install
 
 Running the Test: Save the above script as test_add_to_cart.py. Then execute:
 
+Open the Command Prompt and run the commands below.
 pytest test_add_to_cart.py
 
 
